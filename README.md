@@ -17,7 +17,7 @@
 </p>
 <p align="center">
 <a href="https://instagram.com/jayannag580?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/legend580"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jayanna-g-3aaa8a259?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/Jayanna%20G-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jayanna-g-3aaa8a259?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
